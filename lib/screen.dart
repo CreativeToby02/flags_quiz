@@ -21,7 +21,7 @@ class _MyHomePageState extends State<MyHomePage> {
             gradient: LinearGradient(
                 begin: Alignment.topLeft,
                 end: Alignment.bottomRight,
-                colors: [Colors.purple, Colors.blue])),
+                colors: [Colors.deepPurple, Colors.pink])),
         child: Padding(
           padding: const EdgeInsets.fromLTRB(35, 5, 20, 0),
           child: Column(
